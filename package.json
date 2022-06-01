@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Koemyy/learning-ts/issues"
   },
-  "homepage": "https://github.com/Koemyy/learning-ts#readme"
+  "homepage": "https://github.com/Koemyy/learning-ts#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.16.0",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
 }
